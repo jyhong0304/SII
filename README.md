@@ -47,10 +47,10 @@ All the details of best hyperparameters for RWFNs are described in the paper.
 
 ## Results
 
-- AUC of RWFNs and LTNs for object type classification
+- AUC of RWFNs and LTNs for object type classification using indoor object data
 ![AUC of RWFNs and LTNs for object type classification](https://github.com/jyhong0304/SII/blob/master/figures/indoor_object_type_classification.png)
 
-- AUC of RWFNs and LTNs for detecting part-of relation
+- AUC of RWFNs and LTNs for detecting part-of relation using indoor object data
 ![AUC of RWFNs and LTNs for detecting part-of relation](https://github.com/jyhong0304/SII/blob/master/figures/indoor_part-of_detection.png)
 
 - The comparison of running time, including data configuration and training time, for RWTNs and LTNs
