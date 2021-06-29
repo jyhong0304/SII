@@ -1,4 +1,4 @@
-# An Insect-Inspired Randomly, Weighted Neural Network with Random Fourier Features For Neuro-Symbolic Relational Learning
+# Randomly Weighted Feature Network for Neuro-Symbolic Relational Learning
 
 This repository is the official implementation of Random Weighted Feature Netowrks (RWFNs). All source codes were
 implemented in Python 2.7.
