@@ -49,7 +49,11 @@ All the details of best hyperparameters for RWFNs are described in the paper.
 
 Our model achieves the following performance on :
 
+![AUC of RWFNs and LTNs for object type classification](https://github.com/jyhong0304/SII/blob/master/figures/indoor_object_type_classification.png)
 
+![AUC of RWFNs and LTNs for detecting part-of relation](https://github.com/jyhong0304/SII/blob/master/figures/indoor_part-of_detection.png)
+
+![The comparison of running time, including data configuration and training time, for RWTNs and LTNs](https://github.com/jyhong0304/SII/blob/master/figures/running_time_comparison.png)
 
 ## Contributing
 
