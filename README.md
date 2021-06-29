@@ -24,7 +24,7 @@ linear model, RWFNs can effectively learn the degree of relationship among input
 Image Interpretation (SII) tasks that have been used as a representative example of how LTNs utilize reasoning over
 first-order logic to surpass the performance of solely data-driven methods. We demonstrate that compared to LTNs, RWFNs
 can achieve better or similar performance for the object classification and the detection of the relevant *part-of*
-relations between objects in the SII tasks while using much fewer learnable parameters~(1:151 ratio) and a faster
+relations between objects in the SII tasks while using much fewer learnable parameters (1:151 ratio) and a faster
 learning process (1:2 ratio of running speed). Furthermore, we show that because the randomized weights do not depend on
 the data, several decoders can share a single encoder, giving RWFNs a unique economy of spatial scale for simultaneous
 classification tasks.
@@ -43,9 +43,22 @@ All the details of best hyperparameters for RWFNs are described in the paper.
 
 ### Semantic Image Interpretation (SII) Tasks
 
+1. Select the dataset that you want to train in pascalpart.py
 
+2. To train, run the following command:
+
+```setup
+python train.py
+```
+
+3. To evaluate, run the following command:
+```setup
+python evaluate.py
+```
 
 ## Results
+
+All trained models, predefined weights, and figures are available.
 
 - AUC of RWFNs and LTNs for object type classification using indoor object data
 ![AUC of RWFNs and LTNs for object type classification](https://github.com/jyhong0304/SII/blob/master/figures/indoor_object_type_classification.png)
