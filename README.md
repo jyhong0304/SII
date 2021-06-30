@@ -9,7 +9,7 @@ Knowledge Representation and Reasoning (KRR) is one of the well-known fields in 
 reason, and interpret knowledge as human beings efficiently do. Since many logical formalism and reasoning methods in
 the area have shown the capability of higher-order learning, such as abstract concept learning, integrating artificial
 neural networks with KRR methods to handle complex and practical tasks has received much attention. For example, Neural
-Tensor Networks~(NTNs) are neural network models capable of transforming symbolic representations into vector spaces
+Tensor Networks (NTNs) are neural network models capable of transforming symbolic representations into vector spaces
 where reasoning can be performed through matrix computation and are used in Logic Tensor Networks (LTNs) that enable to
 embed first-order logic symbols such as constants, facts, and rules into real-valued tensors. However, such capability
 in higher-order learning is not exclusive to humans. Insects, such as fruit flies and honey bees, can solve simple
@@ -70,4 +70,6 @@ All trained models, predefined weights, and figures are available.
 
 - The comparison of running time, including data configuration and training time, for RWTNs and LTNs
 ![The comparison of running time, including data configuration and training time, for RWTNs and LTNs](https://github.com/jyhong0304/SII/blob/master/figures/running_time_comparison.png)
+
+## Contributing
 
