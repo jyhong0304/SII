@@ -39,9 +39,11 @@ pip install -r requirements.txt
 
 ## Execution
 
-All the details of best hyperparameters for RWFNs are described in the paper.
+We directly compare the performances between our method and LTNs for Semantic Image Interpretation (SII).
 
-### Semantic Image Interpretation (SII) Tasks
+Original source code of LTNs for SII and dataset are available [here](https://gitlab.fbk.eu/donadello/LTN_IJCAI17).
+
+All the details of best hyperparameters for RWFNs are described in the paper.
 
 1. Select the dataset that you want to train in pascalpart.py
 
@@ -68,6 +70,4 @@ All trained models, predefined weights, and figures are available.
 
 - The comparison of running time, including data configuration and training time, for RWTNs and LTNs
 ![The comparison of running time, including data configuration and training time, for RWTNs and LTNs](https://github.com/jyhong0304/SII/blob/master/figures/running_time_comparison.png)
-
-## Contributing
 
