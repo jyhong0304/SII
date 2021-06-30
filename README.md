@@ -73,3 +73,5 @@ All trained models, predefined weights, and figures are available.
 
 ## Contributing
 
+All content in this repository is licensed under the MIT license.
+
