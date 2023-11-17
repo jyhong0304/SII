@@ -1,6 +1,6 @@
 # Randomly Weighted Feature Network for Neuro-Symbolic Relational Learning
 
-This repository is the official implementation of [Random Weighted Feature Netowrks~(RWFNs)](https://ceur-ws.org/Vol-2986/paper10.pdf). All source codes were
+This repository is the official implementation of [Random Weighted Feature Netowrks (RWFNs)](https://ceur-ws.org/Vol-2986/paper10.pdf). All source codes were
 implemented in Python 2.7.
 
 ## Abstract
@@ -74,4 +74,17 @@ All trained models, predefined weights, and figures are available.
 ## Contributing
 
 All content in this repository is licensed under the MIT license.
+
+## Reference
+
+You can cite our work
+```
+@inproceedings{hong2021insect,
+  title={An insect-inspired randomly, weighted neural network with random Fourier features for neuro-symbolic relational learning},
+  booktitle={Proceedings of the 15th International Workshop on Neuro-Symbolic Learning and Reasoning~(NeSy 20/21)},
+  author={Hong, Jinyung and Pavlic, Theodore P},
+  month={October 25--27,},
+  year={2021}
+}
+```
 
