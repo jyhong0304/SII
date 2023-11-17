@@ -1,6 +1,6 @@
 # Randomly Weighted Feature Network for Neuro-Symbolic Relational Learning
 
-This repository is the official implementation of Random Weighted Feature Netowrks (RWFNs). All source codes were
+This repository is the official implementation of [Random Weighted Feature Netowrks~(RWFNs)](https://ceur-ws.org/Vol-2986/paper10.pdf). All source codes were
 implemented in Python 2.7.
 
 ## Abstract
